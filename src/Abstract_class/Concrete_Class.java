@@ -3,7 +3,8 @@ package Abstract_class;
 public class Concrete_Class extends Incomplite_class {
 
 	public static void main(String[] args) 
-	{
+	{  
+		//This is Concrete class
 		Concrete_Class c = new Concrete_Class();
 		c.Display2();
 		c.Display3();
